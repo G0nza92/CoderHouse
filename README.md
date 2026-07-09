@@ -120,7 +120,7 @@ A partir del análisis exploratorio y de la interpretación mediante SHAP sobre 
 ```text
 📦 Telco_Churn_Portfolio
 │
-├── Telco_Churn_Portfolio.ipynb
+├── Telco_Churn_GonzaloMatos.ipynb
 ├── Telco_Customer_Churn.csv
 ├── requirements.txt
 ├── README.md
@@ -138,7 +138,7 @@ A partir del análisis exploratorio y de la interpretación mediante SHAP sobre 
 1. Clonar el repositorio.
 
 ```bash
-git clone https://github.com/G0nza92/Telco_Churn_Portfolio.git
+git clone https://github.com/G0nza92/Telco_Churn_GonzaloMatos.git
 ```
 
 2. Instalar las dependencias.
